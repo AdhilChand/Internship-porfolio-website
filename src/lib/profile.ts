@@ -4,7 +4,7 @@ export const profile = {
   shortName: "Adhil",
   role: "Student · Builder · Curious mind",
   location: "Kerala, India",
-  email: "hello@adhilchand.com",
+  email: "adilan3705l@gmail.com",
   socials: [
     { label: "GitHub", href: "https://github.com/" },
     { label: "LinkedIn", href: "https://www.linkedin.com/" },
