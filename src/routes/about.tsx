@@ -22,7 +22,7 @@ export const Route = createFileRoute("/about")({
 
 const skills = [
   { group: "Build", items: ["HTML & CSS", "JavaScript", "React", "Python", "Arduino"] },
-  { group: "Design", items: ["Figma", "UI design", "Photography", "Poster design"] },
+  { group: "Design", items: ["Video editing", "Figma", "UI design", "Photography", "Poster design"] },
   { group: "People", items: ["Teamwork", "Event organising", "Public speaking"] },
 ];
 
