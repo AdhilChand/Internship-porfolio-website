@@ -3,7 +3,7 @@ export const profile = {
   name: "Adhil Chand TP",
   shortName: "Adhil",
   role: "Student · Builder · Curious mind",
-  location: "Kerala, India",
+  location: "Edamuttam, Thrissur, Kerala",
   email: "adilan3705l@gmail.com",
   socials: [
     { label: "GitHub", href: "https://github.com/" },
